@@ -1,0 +1,40 @@
+body {
+  background-color: rgb(3, 144, 253);
+  margin: 0;
+}
+
+div {
+  color: white;
+  width: 50%;
+  margin: auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  color: white;
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  font-size: 30px;
+}
+p {
+  font-size: 24px;
+}
+a {
+  font-size: 24px;
+  color: white;
+}
+
+/* end of skidding from weigurde's site */
+/* start of weigurde's classes */
+.size4 {
+    font-size: 4;
+/*     ^ i can't be bothered to work out <font> sizes for the fontsize so i hope this is normal, use large if it doesn't work right */
+}
+.size6 {
+    font-size: 6;
+/*    read above comment*/
+}
+.size7 {
+    font-size: 7;
+/*    read above comments*/
+}
