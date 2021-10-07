@@ -2,6 +2,8 @@ body {
   background-color: rgb(3, 144, 253);
   margin: 0;
   font-family: Franklin Gothic;
+  cursor: none;
+  animation: mymove 5s infinite;
 }
 
 h1 {
@@ -43,12 +45,6 @@ a {
 .blockedfromschools {
   color: #60ff60;
 }
-
-body {
-  cursor: none;
-  animation: mymove 5s infinite;
-}
-
 @keyframes mymove {
 0% {background-color: #45a3e5}
 30% {background-color: #66bf39}
