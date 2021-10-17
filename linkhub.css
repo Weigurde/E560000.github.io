@@ -2,7 +2,7 @@ body {
   background-color: rgb(3, 144, 253);
   margin: 0;
   font-family: Franklin Gothic;
-  cursor: none;
+  cursor: auto;
   animation: mymove 5s infinite;
 }
 
